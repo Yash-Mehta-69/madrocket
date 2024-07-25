@@ -1,8 +1,7 @@
 {
-  "name": "madrocket",
+  "name": "assignment",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yash-mehta-69.github.io/madrocket/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -18,8 +17,7 @@
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.25.1",
-    "gh-pages": "^3.2.3"
+    "react-router-dom": "^6.25.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
